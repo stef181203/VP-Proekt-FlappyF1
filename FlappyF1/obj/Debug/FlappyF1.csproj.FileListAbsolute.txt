@@ -1,0 +1,52 @@
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\FlappyF1.exe.config
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\FlappyF1.exe
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\FlappyF1.pdb
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.Properties.Resources.resources
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.exe
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.pdb
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\bin\Debug\FlappyF1.exe.config
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\bin\Debug\FlappyF1.exe
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\bin\Debug\FlappyF1.pdb
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.AssemblyReference.cache
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.Form1.resources
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.Properties.Resources.resources
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.GenerateResource.cache
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.exe
+C:\Users\Aleksandar PC\OneDrive\Desktop\FINKI\IV semestar\Vizuelno\Proekt vizuelno\FlappyF1\FlappyF1\FlappyF1\obj\Debug\FlappyF1.pdb
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\FlappyF1.exe.config
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\FlappyF1.exe
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\FlappyF1.pdb
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.Properties.Resources.resources
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.exe
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.pdb
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.csproj.ResolveComReference.cache
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.GameForm.resources
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.HomeScreenForm.resources
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\obj\Debug\FlappyF1.GameOverForm.resources
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\Resources\Sounds\ThemeSong.mp3
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\Resources\Sounds\IAmStupid.mp3
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\Resources\Sounds\Pass.mp3
+C:\Users\Stefan\source\repos\FlappyF1v2\FlappyF1\bin\Debug\Resources\Sounds\StartGame.mp3
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.csproj.ResolveComReference.cache
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.GameForm.resources
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.GameOverForm.resources
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\obj\Debug\FlappyF1.HomeScreenForm.resources
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\Resources\Sounds\IAmStupid.mp3
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\Resources\Sounds\Pass.mp3
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\Resources\Sounds\StartGame.mp3
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\Resources\Sounds\ThemeSong.mp3
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\source\repos\FlappyF1\FlappyF1\bin\Debug\AxInterop.WMPLib.dll
